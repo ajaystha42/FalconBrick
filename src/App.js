@@ -75,7 +75,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div>
       <button onClick={() => setToggle(!toggle)}>Preview</button>
 
       <button>H</button>
